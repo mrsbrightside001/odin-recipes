@@ -1,0 +1,45 @@
+body {
+    font-family: Tahoma, Helvetica, sans-serif;
+    background-color: #1A1A1D;
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+}
+
+h3, h1 {
+    color: #C3073F;
+    font-weight: lighter;
+}
+
+h4 { 
+    color: #4E4E50;
+    font-weight: lighter;
+}
+
+/*  images: height="480" width="320" */
+
+ul {
+    list-style-type: none;
+    display: inline;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+/*does not work*/
+.header {
+    float: left;
+}
+
+.sources {
+    font-weight: lighter;
+}
+
+.cookie {
+    color: #950740;
+    font-size: 15pt;
+}
+
+
